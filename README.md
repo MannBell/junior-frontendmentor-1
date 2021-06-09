@@ -1,4 +1,6 @@
 # junior-frontendmentor-1
-crowdfunding product page
+Crowdfunding product page.
 
-if you want to see the assets go to the `build` branch
+You can visit the website here: https://mannbell.github.io/junior-frontendmentor-1/
+
+If you want to see the assets go to the `build` branch
